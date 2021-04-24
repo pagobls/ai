@@ -10,3 +10,4 @@ tensorflow
 pandas
 scikit-learn
 graphviz
+ipython
